@@ -2,6 +2,8 @@
 
 #### Problem statement: 
 Create a Deep learning model to predict the different CIFAR10 images.
+
+## Context :
 The CIFAR-10 data consists of 60,000 32x32 color images in 10 classes, with 6000 images per class. There 
 are 50,000 training images and 10,000 test images in the official data. We have preserved the train/test 
 split from the original dataset. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. 
