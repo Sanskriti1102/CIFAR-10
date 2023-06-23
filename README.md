@@ -1,6 +1,5 @@
 # CIFAR-10
 
-## Project Description:
 #### Problem statement: 
 Create a Deep learning model to predict the different CIFAR10 images.
 The CIFAR-10 data consists of 60,000 32x32 color images in 10 classes, with 6000 images per class. There 
